@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="accessibility_description">JARVIS uses accessibility services to help you automate UI actions and navigate your phone with voice commands. It does not collect private data.</string>
+</resources>
